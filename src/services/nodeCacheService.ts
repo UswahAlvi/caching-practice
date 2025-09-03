@@ -15,5 +15,4 @@ export class Cache{
     public static has(key: string): boolean{
         return cache.has(key);
     }
-
 }
